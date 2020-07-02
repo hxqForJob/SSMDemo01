@@ -94,7 +94,7 @@ public class MyController {
 	}
 	
 	/**
-	 * 登录
+	 * 登录验证
 	 * @param username
 	 * @param password
 	 * @param session
@@ -109,6 +109,7 @@ public class MyController {
 		map.put("success", true);
 		map.put("message", "登录成功!");
 		return map;
-		
+	
 	}
+	
 }
