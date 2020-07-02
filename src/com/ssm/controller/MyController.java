@@ -92,7 +92,7 @@ public class MyController {
 		model.addAttribute("oldData", queryItem);
 		return "itemList";
 	}
-	
+
 	/**
 	 * 登录验证001
 	 * @param username
