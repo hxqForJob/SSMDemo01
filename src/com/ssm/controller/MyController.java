@@ -94,7 +94,7 @@ public class MyController {
 	}
 	
 	/**
-	 * 登录验证14721
+	 * 登录验证001
 	 * @param username
 	 * @param password
 	 * @param session
